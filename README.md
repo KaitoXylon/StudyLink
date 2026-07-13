@@ -33,7 +33,7 @@ You will need **Node.js** and **npm** installed on your system.
 
 1.  **Clone or download the repository:**
     ```bash
-    [git clone https://github.com/KaitoXylon/StudyLink.git
+    [git clone https://github.com/KaitoXylon/StudyInk.git
     cd studyink
     ```
 
