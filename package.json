@@ -1,0 +1,20 @@
+{
+  "name": "studyink",
+  "version": "1.0.0",
+  "description": "A powerful PDF study editor with annotation, drawing, and flashcard tools",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --enable-logging"
+  },
+  "keywords": ["pdf", "study", "annotation", "electron"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^36.4.0"
+  },
+  "dependencies": {
+    "electron-store": "^8.1.0",
+    "pdf-lib": "^1.17.1"
+  }
+}
